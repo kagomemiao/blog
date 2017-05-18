@@ -46,7 +46,9 @@ index_with_subtitle: true
 menu:
   home: /
   # categories: /categories
-  music: /categories/music
+  # logs: /logs
+  # schedule: /schedule
+  # music: /categories/music
   about: /about
   # archives: /archives
   # tags: /tags
@@ -71,6 +73,7 @@ menu_icons:
   sitemap: sitemap
   commonweal: heartbeat
   music: music
+  logs: clock-o
 
 
 

@@ -6,7 +6,7 @@
 {% block content %}
 
   <div id="posts" class="posts-expand">
-  {% include '_partials/page-header.swig' %}
+{#  {% include '_partials/page-header.swig' %} #}
     {# tagcloud page support #}
     {% if page.type === "tags" %}
       <div class="tag-cloud">

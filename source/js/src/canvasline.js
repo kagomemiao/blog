@@ -1,7 +1,7 @@
         //监听触摸移动事件
-        document.addEventListener('touchmove', function (e) {
-            e.preventDefault()  //阻止即将发生的默认行为（禁止触摸移动）
-        })
+        // document.addEventListener('touchmove', function (e) {
+        //     e.preventDefault()  //（禁止触摸移动，手机端会出现无法滑动的现象）
+        // })
 
         //初始化变量
         var c = document.getElementsByTagName('canvas')[0],
